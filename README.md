@@ -46,7 +46,7 @@ A curated index of all coursework repositories I completed while pursuing my B.S
 | Course&nbsp;Code | Course Title | Repository |
 |------------------|--------------|------------|
 | **CSE 208** | Data Structures and Algorithms II Sessional | [`CSE208-Data-Structures-and-Algorithms-II-Sessional`](https://github.com/Mushfiqur6087/CSE208-Data-Structures-and-Algorithms-II-Sessional) |
-| **CSE 211** | Theory of Computation | [`CSE211--Theory-of-Computation`](https://github.com/Mushfiqur6087/CSE211--Theory-of-Computation) |
+| **CSE 211** | Theory of Computation | [`CSE211-Theory-of-Computation`](https://github.com/Mushfiqur6087/CSE211-Theory-of-Computation) |
 | **CSE 216** | Database Sessional | [`CSE216-Database-Sessional`](https://github.com/Mushfiqur6087/CSE216-Database-Sessional) |
 | **CSE 216 (Project)** | BIIS 1.0 (Database project) | [`BIIS-1.0`](https://github.com/Mushfiqur6087/BIIS-1.0) |
 
