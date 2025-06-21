@@ -28,7 +28,14 @@ A curated index of all coursework repositories I completed while pursuing my B.S
 | **CSE 108** | Object‑Oriented Programming Language Sessional | [`CSE108-Object-Oriented-Programming-Language-Sessional`](https://github.com/Mushfiqur6087/CSE108-Object-Oriented-Programming-Language-Sessional) |
 | **CSE 108 (Project)** | MovieDB (final project) | [`MovieDB`](https://github.com/Mushfiqur6087/MovieDB) |
 
+---
 
+## Level 2 Term 1
+
+| Course&nbsp;Code | Course Title | Repository |
+|------------------|--------------|------------|
+| **CSE 204** | Data Structures and Algorithms I Sessional | [`CSE204-Data-Structures-and-Algorithms-I-Sessional`](https://github.com/Mushfiqur6087/CSE204-Data-Structures-and-Algorithms-I-Sessional) |
+| **CSE 218** | Numerical Analysis | [`CSE-218-Numerical-Analysis`](https://github.com/Mushfiqur6087/CSE-218-Numerical-Analysis) |
 ---
 
 
