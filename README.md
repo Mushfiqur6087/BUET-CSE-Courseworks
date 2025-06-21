@@ -24,8 +24,10 @@ A curated index of all coursework repositories I completed while pursuing my B.S
 
 | Course&nbsp;Code | Course Title | Repository |
 |-----------------|--------------|------------|
+| **CSE 107** | Object‑Oriented Programming Language | [`CSE108-Object-Oriented-Programming-Language`](https://github.com/Mushfiqur6087/CSE107-Object-Oriented-Programming-Language) |
 | **CSE 108** | Object‑Oriented Programming Language Sessional | [`CSE108-Object-Oriented-Programming-Language-Sessional`](https://github.com/Mushfiqur6087/CSE108-Object-Oriented-Programming-Language-Sessional) |
 | **CSE 108 (Project)** | MovieDB (final project) | [`MovieDB`](https://github.com/Mushfiqur6087/MovieDB) |
+
 
 ---
 
