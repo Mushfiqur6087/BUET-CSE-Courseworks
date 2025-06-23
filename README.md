@@ -15,7 +15,7 @@
 
 ---
 
-### Level 1 Term 1 Term 1
+### Level 1 Term 1
 
 - 💻 [CSE 101: Structured Programming Language](https://github.com/Mushfiqur6087/CSE101-Structured-Programming-Language)
 - 📝 [CSE 102: Structured Programming Language Sessional](https://github.com/Mushfiqur6087/CSE102-Structured-Programming-Language-Sessional)
