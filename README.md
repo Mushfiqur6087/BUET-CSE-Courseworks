@@ -10,6 +10,7 @@ A curated index of all coursework repositories I completed while pursuing my B.S
 - [Level 2 Term 1](#level-2-term-1)
 - [Level 2 Term 2](#level-2-term-2)
 - [Level 3 Term 1](#level-3-term-1)
+- [Level 3 Term 2](#level-3-term-2)
 
 ---
 
@@ -19,7 +20,7 @@ A curated index of all coursework repositories I completed while pursuing my B.S
 |------------------|--------------|------------|
 | **CSE 101** | Structured Programming Language | [`CSE101-Structured-Programming-Language`](https://github.com/Mushfiqur6087/CSE101-Structured-Programming-Language) |
 | **CSE 102** | Structured Programming Language Sessional | [`CSE102-Structured-Programming-Language-Sessional`](https://github.com/Mushfiqur6087/CSE102-Structured-Programming-Language-Sessional) |
-| **CSE 102 (Project)** | Car Racing Game (Final Project) | [`CSE-102-Car-Racing-Game`](https://github.com/Mushfiqur6087/CSE-102-Car-Racing-Game) |
+| **CSE 102 (Project)** | Car Racing Game (final project) | [`CSE-102-Car-Racing-Game`](https://github.com/Mushfiqur6087/CSE-102-Car-Racing-Game) |
 
 ---
 
@@ -29,7 +30,7 @@ A curated index of all coursework repositories I completed while pursuing my B.S
 |------------------|--------------|------------|
 | **CSE 107** | Object-Oriented Programming Language | [`CSE108-Object-Oriented-Programming-Language`](https://github.com/Mushfiqur6087/CSE107-Object-Oriented-Programming-Language) |
 | **CSE 108** | Object-Oriented Programming Language Sessional | [`CSE108-Object-Oriented-Programming-Language-Sessional`](https://github.com/Mushfiqur6087/CSE108-Object-Oriented-Programming-Language-Sessional) |
-| **CSE 108 (Project)** | MovieDB (Final Project) | [`MovieDB`](https://github.com/Mushfiqur6087/MovieDB) |
+| **CSE 108 (Project)** | MovieDB (final project) | [`MovieDB`](https://github.com/Mushfiqur6087/MovieDB) |
 
 ---
 
@@ -49,7 +50,7 @@ A curated index of all coursework repositories I completed while pursuing my B.S
 | **CSE 208** | Data Structures and Algorithms II Sessional | [`CSE208-Data-Structures-and-Algorithms-II-Sessional`](https://github.com/Mushfiqur6087/CSE208-Data-Structures-and-Algorithms-II-Sessional) |
 | **CSE 211** | Theory of Computation | [`CSE211-Theory-of-Computation`](https://github.com/Mushfiqur6087/CSE211-Theory-of-Computation) |
 | **CSE 216** | Database Sessional | [`CSE216-Database-Sessional`](https://github.com/Mushfiqur6087/CSE216-Database-Sessional) |
-| **CSE 216 (Project)** | BIIS 1.0 (Database Project) | [`BIIS-1.0`](https://github.com/Mushfiqur6087/BIIS-1.0) |
+| **CSE 216 (Project)** | BIIS 1.0 (Database project) | [`BIIS-1.0`](https://github.com/Mushfiqur6087/BIIS-1.0) |
 
 ---
 
@@ -62,3 +63,13 @@ A curated index of all coursework repositories I completed while pursuing my B.S
 | **CSE 308** | Software Engineering Sessional | [`CSE308-Software-Engineering-Sessional`](https://github.com/Mushfiqur6087/CSE308-Software-Engineering-Sessional) |
 | **CSE 310** | Compiler Sessional | [`CSE310-Compiler-Sessional`](https://github.com/Mushfiqur6087/CSE310-Compiler-Sessional) |
 | **CSE 316** | Microprocessors, Microcontrollers and Embedded Systems Sessional | [`CSE316-Microprocessors-Microcontrollers-and-Embedded-Systems-Sessional`](https://github.com/Mushfiqur6087/CSE316-Microprocessors-Microcontrollers-and-Embedded-Systems-Sessional) |
+
+---
+
+## Level 3 Term 2
+
+| Course&nbsp;Code | Course Title | Repository |
+|------------------|--------------|------------|
+| **CSE 314** | Operating System Sessional | [`CSE314-Operating-System-Sessional`](https://github.com/Mushfiqur6087/CSE314-Operating-System-Sessional) |
+| **CSE 318** | Artificial Intelligence Sessional | [`CSE318-Artificial-Intelligence-Sessional`](https://github.com/Mushfiqur6087/CSE318-Artificial-Intelligence-Sessional) |
+| **CSE 322** | Computer Networks Sessional | [`CSE322-Computer-Networks-Sessional`](https://github.com/Mushfiqur6087/CSE322-Computer-Networks-Sessional) |
