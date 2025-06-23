@@ -11,7 +11,7 @@ A curated index of all coursework repositories I completed while pursuing my B.S
 - [Level 2 Term 2](#level-2-term-2)
 - [Level 3 Term 1](#level-3-term-1)
 - [Level 3 Term 2](#level-3-term-2)
-
+- [Level 4 Term 1](#level-4-term-1)
 ---
 
 ## Level 1 Term 1
@@ -73,3 +73,13 @@ A curated index of all coursework repositories I completed while pursuing my B.S
 | **CSE 314** | Operating System Sessional | [`CSE314-Operating-System-Sessional`](https://github.com/Mushfiqur6087/CSE314-Operating-System-Sessional) |
 | **CSE 318** | Artificial Intelligence Sessional | [`CSE318-Artificial-Intelligence-Sessional`](https://github.com/Mushfiqur6087/CSE318-Artificial-Intelligence-Sessional) |
 | **CSE 322** | Computer Networks Sessional | [`CSE322-Computer-Networks-Sessional`](https://github.com/Mushfiqur6087/CSE322-Computer-Networks-Sessional) |
+
+
+---
+
+## Level 4 Term 1
+
+| Course&nbsp;Code | Course Title | Repository |
+|------------------|--------------|------------|
+| **CSE 410** | Computer Graphics Sessional | [`CSE410-Computer-Graphics-Sessional`](https://github.com/Mushfiqur6087/CSE410-Computer-Graphics-Sessional) |
+| **CSE 406** | Computer Security Sessional | [`CSE406-Computer-Security-Sessional`](https://github.com/Mushfiqur6087/CSE406-Computer-Security-Sessional) |
